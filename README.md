@@ -1,29 +1,19 @@
-# ARCONE
+# POLYONE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-ARCONE-blue?logo=google-chrome)](https://arcone.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-ARCONE-blue?logo=twitter)](https://x.com/ARCONEBLOCK)
+[![Website](https://img.shields.io/badge/Website-POLYONE-blue?logo=google-chrome)](https://polyone.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-POLYONE-blue?logo=twitter)](https://x.com/POLYONEPLG)
 
-A mirror of electricity shaped entirely by the behavior of its holders.
-Every wallet is a node within this electric network, generating its own arc of consciousness defined by trading rhythm, frequency, and emotion.
+POLYONE // The Intelligent Execution Layer for Polymarket
 
-When a buy transaction occurs, ARCONE captures the on-chain event and triggers an energy pulse across the system.
-This pulse instantly updates the state of its corresponding arc — increasing brightness, frequency, and energy density.
+In the evolving world of prediction markets, Polymarket has become a data-rich environment where decisions, probabilities, and beliefs collide in real time. Yet most interactions remain manual — traders analyze odds, switch tabs, and react emotionally to volatility. POLYONE redefines this dynamic by introducing an intelligent, programmable execution layer that transforms Polymarket into a fully autonomous trading environment.
 
-When a sell is detected, the system initiates a discharge sequence, reducing local charge intensity and recalibrating the overall network balance.
-Each pulse, each discharge, and each moment of stillness is recorded, forming a continuously evolving field of on-chain consciousness.
+Built as an open-source protocol and browser plugin, POLYONE allows users to design modular strategies, process live market signals, and execute orders automatically with on-chain verification. It merges data analytics, risk control, and strategy automation into one cohesive system — enabling trades not based on emotion, but on logic and evidence.
 
-Wallets that remain inactive enter a decay phase — their arcs gradually cool until new actions reawaken them.
-As this data continues to flow, the network evolves into a logic-driven neural grid —
-a self-developing system of consciousness built entirely on verifiable on-chain data.
+Through its programmable strategy engine, users can encode decision logic such as Kelly sizing, conditional triggers, and correlation-based hedging. Its real-time analytics layer constantly evaluates probabilities, liquidity, and exposure, delivering precision execution at every step. With autonomous operation, POLYONE doesn’t just react — it learns and adapts, allowing markets to evolve through intelligent feedback loops.
 
-ARCONE requires no prediction and no external control.
-Its evolution is triggered purely by human activity, driven by logic, visualized through light, and sustained by the rhythm of real transactions.
-
-Every buy is a signal.
-Every sell is a discharge.
-Every holder is a neuron in this electric mind.
+By combining open architecture, transparency, and autonomy, POLYONE marks a new phase for prediction markets — where trading becomes data-native, strategies become living systems, and every decision on Polymarket can be executed intelligently, verifiably, and at machine speed.
