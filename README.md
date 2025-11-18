@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-POLYONE-blue?logo=google-chrome)](https://polyone.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-POLYONE-blue?logo=twitter)](https://x.com/POLYONEPLG)
 
+```
+CA: vePJBJVXyBvqpQ96LoNon83G6qVApzwK67cs1bmpump
+```
+
 POLYONE // The Intelligent Execution Layer for Polymarket
 
 In the evolving world of prediction markets, Polymarket has become a data-rich environment where decisions, probabilities, and beliefs collide in real time. Yet most interactions remain manual — traders analyze odds, switch tabs, and react emotionally to volatility. POLYONE redefines this dynamic by introducing an intelligent, programmable execution layer that transforms Polymarket into a fully autonomous trading environment.
