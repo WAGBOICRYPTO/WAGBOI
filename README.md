@@ -14,7 +14,7 @@ CA: 5ZWge3Pm6Hv1jgQaB1GocfTHzuMhbS3v672VWzSepump
 I know you’re all dying to know what’s happening.
 Don’t rush — this is only a teaser.
 These next few minutes matter.
-Run.
+Run. 3
 
 ```
 
